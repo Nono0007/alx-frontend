@@ -24,7 +24,7 @@
     --section-title-color: var(--color-black);
 }
 
-/* efortless transitions when scrolling */
+/* effortless transitions when scrolling */
 html{
     scroll-behavior: smooth;
     font-size: 62.5%;
@@ -62,11 +62,11 @@ a{
 }
 
 .section-title{
-	font-family: var(--font-family-title);
-	font-size: var(--font-size-xx-large);
-	font-weight: var(--font-weight-bold);
-	margin: var(--section-title-margin);
-	text-color: var(--section-title-color);
+    font-family: var(--font-family-title);
+    font-size: var(--font-size-xx-large);
+    font-weight: var(--font-weight-bold);
+    margin: var(--section-title-margin);
+    color: var(--section-title-color);
 }
 
 .section-tagline{
