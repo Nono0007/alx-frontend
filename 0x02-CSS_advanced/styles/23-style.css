@@ -554,14 +554,14 @@ ul.row{
     background-color: var(--color-black);
 }
 
-.footer-address{
-	text-color: var(--text-color);
+.footer-address {
+    color: var(--text-color);
 }
 
-.social-link{
-	display: block;
+.social-link {
+    display: block;
 }
 
-..social-link > svg {
-	fill: var(--text-color);
+.social-link > svg {
+    fill: var(--text-color);
 }
