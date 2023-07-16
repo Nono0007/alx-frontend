@@ -22,7 +22,7 @@
     --section-tagline-transform: uppercase;
 }
 
-/* effortless transitions when scrolling */
+/* efortless transitions when scrolling */
 html{
     scroll-behavior: smooth;
     font-size: 62.5%;
@@ -63,5 +63,5 @@ a{
     color: var(--color-primary);
     font-family: var(--font-family-title);
     text-transform: var(--section-tagline-transform);
-    font-weight: (--font-weight-bold);
+    font-weight: var(--font-weight-bold);
 }
