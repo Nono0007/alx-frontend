@@ -50,15 +50,15 @@ a:link{
 }
 
 a:visited{
-	font-style: italic;
+    font-style: italic;
 }
 
 a:hover{
-	text-decoration: underline;
+    text-decoration: underline;
 }
 
 a:active{
-	background-color: var(----color-light-grey);
+    background-color: var(--color-light-grey);
 }
 
 .visually-hidden{
